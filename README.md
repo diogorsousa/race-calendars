@@ -12,6 +12,8 @@ Check the [changelog](CHANGELOG.md) for the latest changes.
 **2024:**
 - Supercross
 - AMA National Motocross  
+- MotoGP (TBC)
+- Formula1 (TBC)
 
 **2023:**
 
